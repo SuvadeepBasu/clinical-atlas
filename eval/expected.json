@@ -1,0 +1,73 @@
+{
+  "min_counts": {
+    "medicines": 11,
+    "outcomes": 25,
+    "trials": 63,
+    "arms": 95,
+    "results": 244,
+    "adverse_events": 380
+  },
+  "tolerance": 0.002,
+  "reference_answers": [
+    {
+      "question": "Is Hepatrisol good for the liver?",
+      "medicine": "Hepatrisol",
+      "outcome": "Liver fat fraction (MRI-PDFF)",
+      "arms": 7,
+      "positive_arms": 5,
+      "pooled_difference": -1.498,
+      "ci_low": -1.818,
+      "ci_high": -1.178
+    },
+    {
+      "question": "Which medicines lower blood pressure?",
+      "medicine": "Arteval",
+      "outcome": "Systolic blood pressure",
+      "arms": 11,
+      "positive_arms": 8,
+      "pooled_difference": -4.776,
+      "ci_low": -5.615,
+      "ci_high": -3.937
+    },
+    {
+      "question": "How much does Lipovance lower LDL?",
+      "medicine": "Lipovance",
+      "outcome": "LDL cholesterol",
+      "arms": 12,
+      "positive_arms": 11,
+      "pooled_difference": -21.019,
+      "ci_low": -23.315,
+      "ci_high": -18.723
+    },
+    {
+      "question": "Does Bronquel reduce asthma attacks?",
+      "medicine": "Bronquel",
+      "outcome": "Annual exacerbation rate",
+      "arms": 6,
+      "positive_arms": 5,
+      "pooled_difference": -0.248,
+      "ci_low": -0.311,
+      "ci_high": -0.185
+    },
+    {
+      "question": "Summarise Calvenor for migraine",
+      "medicine": "Calvenor",
+      "outcome": "Monthly migraine days",
+      "arms": 5,
+      "positive_arms": 3,
+      "pooled_difference": -1.075,
+      "ci_low": -1.436,
+      "ci_high": -0.713
+    },
+    {
+      "question": "What does Renovyn do for the kidneys?",
+      "medicine": "Renovyn",
+      "outcome": "Urine albumin-creatinine ratio",
+      "arms": 6,
+      "positive_arms": 4,
+      "pooled_difference": -10.17,
+      "ci_low": -11.875,
+      "ci_high": -8.465
+    }
+  ]
+}

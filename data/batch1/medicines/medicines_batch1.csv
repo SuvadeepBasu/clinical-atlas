@@ -1,0 +1,12 @@
+medicine,code,drug_class,indication,body_systems,sponsor,doses
+Calvenor,CLV-118,CGRP-pathway modulator,Episodic migraine prevention,Nervous,Halden Biopharma,25 mg|50 mg|100 mg
+Dormelith,DML-402,Orexin receptor antagonist,Chronic insomnia,Nervous,Kestrel Therapeutics,5 mg|10 mg
+Seralune,SRL-250,Selective GABA-A partial agonist,Generalised anxiety,Nervous,Arbor Clinical Sciences,10 mg|20 mg
+Arteval,ATV-731,Aldosterone synthase inhibitor,Resistant hypertension,Cardiovascular|Renal,Meridian Cardio,12.5 mg|25 mg
+Lipovance,LPV-209,PCSK9 oral inhibitor,Hypercholesterolaemia,Cardiovascular|Hepatic,Halden Biopharma,30 mg|60 mg
+Bronquel,BRQ-560,Inhaled TSLP antibody fragment,Moderate-to-severe asthma,Respiratory,Northfield Respiratory,200 µg|400 µg
+Colvessa,CLS-314,Gut-restricted GC-C agonist,IBS with constipation,Digestive,Kestrel Therapeutics,145 µg|290 µg
+Hepatrisol,HPT-882,FXR partial agonist,Metabolic fatty liver disease,Hepatic|Cardiovascular,Ostrava Biosciences,10 mg|25 mg
+Renovyn,RNV-145,Endothelin-A antagonist,Chronic kidney disease,Renal|Cardiovascular,Meridian Cardio,0.75 mg|1.5 mg
+Ostrafen,OSF-677,Intra-articular sustained-release corticosteroid,Knee osteoarthritis,Musculoskeletal,Arbor Clinical Sciences,32 mg|64 mg
+Glucendra,GLD-903,Dual GLP-1/GIP agonist,Type 2 diabetes,Endocrine|Cardiovascular|Hepatic,Ostrava Biosciences,5 mg|10 mg|15 mg

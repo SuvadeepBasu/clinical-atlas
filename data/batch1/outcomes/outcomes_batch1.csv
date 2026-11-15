@@ -1,0 +1,26 @@
+outcome,body_system,unit,lower_is_better
+Monthly migraine days,Nervous,days/month,True
+Headache severity (0-10),Nervous,points,True
+Sleep onset latency,Nervous,min,True
+Total sleep time,Nervous,min,False
+Anxiety score (GAD-7),Nervous,points,True
+Systolic blood pressure,Cardiovascular,mmHg,True
+Diastolic blood pressure,Cardiovascular,mmHg,True
+LDL cholesterol,Cardiovascular,mg/dL,True
+Resting heart rate,Cardiovascular,bpm,True
+FEV1,Respiratory,mL,False
+Annual exacerbation rate,Respiratory,events/yr,True
+Asthma control score (ACQ),Respiratory,points,True
+IBS symptom severity,Digestive,points,True
+Stool frequency normalisation,Digestive,% responders,False
+Abdominal pain score (0-10),Digestive,points,True
+ALT,Hepatic,U/L,True
+Liver fat fraction (MRI-PDFF),Hepatic,% points,True
+eGFR slope,Renal,mL/min/1.73m²/yr,False
+Urine albumin-creatinine ratio,Renal,% change,True
+Knee pain (WOMAC),Musculoskeletal,points,True
+Joint stiffness score,Musculoskeletal,points,True
+6-minute walk distance,Musculoskeletal,m,False
+HbA1c,Endocrine,% points,True
+Fasting plasma glucose,Endocrine,mg/dL,True
+Body weight,Endocrine,%,True

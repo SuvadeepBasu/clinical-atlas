@@ -1,0 +1,245 @@
+arm_id,trial_id,outcome,body_system,is_primary,mean_difference,ci_low,ci_high,unit,p_value,result
+CLV-209-A1,CLV-209,Monthly migraine days,Nervous,True,-1.59,-2.73,-0.45,days/month,0.00632,Positive
+CLV-209-A1,CLV-209,Headache severity (0-10),Nervous,False,-1.21,-2.0,-0.42,points,0.00263,Positive
+CLV-216-A1,CLV-216,Monthly migraine days,Nervous,True,-1.3,-1.81,-0.79,days/month,0.0001,Positive
+CLV-216-A1,CLV-216,Headache severity (0-10),Nervous,False,-0.73,-1.08,-0.38,points,0.0001,Positive
+CLV-216-A1,CLV-216,Resting heart rate,Cardiovascular,False,0.54,-0.64,1.72,bpm,0.367,Neutral
+CLV-223-A1,CLV-223,Monthly migraine days,Nervous,True,-0.18,-1.11,0.75,days/month,0.709,Neutral
+CLV-223-A1,CLV-223,Headache severity (0-10),Nervous,False,-0.36,-1.0,0.28,points,0.278,Neutral
+CLV-231-A1,CLV-231,Monthly migraine days,Nervous,True,-0.17,-0.98,0.64,days/month,0.671,Neutral
+CLV-231-A1,CLV-231,Headache severity (0-10),Nervous,False,-0.9,-1.46,-0.34,points,0.00156,Positive
+CLV-231-A1,CLV-231,Resting heart rate,Cardiovascular,False,1.36,-0.5,3.22,bpm,0.152,Neutral
+CLV-231-A2,CLV-231,Monthly migraine days,Nervous,True,-1.15,-1.96,-0.34,days/month,0.00501,Positive
+CLV-231-A2,CLV-231,Headache severity (0-10),Nervous,False,-0.73,-1.29,-0.17,points,0.0103,Positive
+CLV-231-A2,CLV-231,Resting heart rate,Cardiovascular,False,-0.27,-2.13,1.59,bpm,0.774,Neutral
+DML-201-A1,DML-201,Sleep onset latency,Nervous,True,-5.73,-7.9,-3.56,min,0.0001,Positive
+DML-201-A1,DML-201,Anxiety score (GAD-7),Nervous,False,-0.3,-0.83,0.23,points,0.265,Neutral
+DML-201-A2,DML-201,Sleep onset latency,Nervous,True,-5.74,-7.91,-3.57,min,0.0001,Positive
+DML-212-A1,DML-212,Sleep onset latency,Nervous,True,-2.03,-6.37,2.31,min,0.36,Neutral
+DML-212-A1,DML-212,Anxiety score (GAD-7),Nervous,False,0.23,-0.82,1.28,points,0.665,Neutral
+DML-212-A2,DML-212,Sleep onset latency,Nervous,True,-3.12,-7.46,1.22,min,0.158,Neutral
+DML-212-A2,DML-212,Total sleep time,Nervous,False,12.29,2.37,22.21,min,0.0151,Positive
+DML-221-A1,DML-221,Sleep onset latency,Nervous,True,-3.26,-7.6,1.08,min,0.141,Neutral
+DML-221-A1,DML-221,Anxiety score (GAD-7),Nervous,False,0.49,-0.56,1.54,points,0.361,Neutral
+DML-237-A1,DML-237,Sleep onset latency,Nervous,True,-7.8,-10.54,-5.06,min,0.0001,Positive
+DML-237-A1,DML-237,Total sleep time,Nervous,False,20.03,13.76,26.3,min,0.0001,Positive
+DML-237-A1,DML-237,Anxiety score (GAD-7),Nervous,False,-0.05,-0.72,0.62,points,0.892,Neutral
+SRL-207-A1,SRL-207,Anxiety score (GAD-7),Nervous,True,-0.59,-1.06,-0.12,points,0.0139,Positive
+SRL-207-A1,SRL-207,Total sleep time,Nervous,False,3.56,-0.87,7.99,min,0.115,Neutral
+SRL-207-A1,SRL-207,Resting heart rate,Cardiovascular,False,-0.2,-1.03,0.63,bpm,0.639,Neutral
+SRL-207-A2,SRL-207,Anxiety score (GAD-7),Nervous,True,-1.18,-1.65,-0.71,points,0.0001,Positive
+SRL-207-A2,SRL-207,Resting heart rate,Cardiovascular,False,0.26,-0.57,1.09,bpm,0.538,Neutral
+SRL-217-A1,SRL-217,Anxiety score (GAD-7),Nervous,True,-0.8,-1.47,-0.13,points,0.0189,Positive
+SRL-217-A1,SRL-217,Total sleep time,Nervous,False,4.77,-1.5,11.04,min,0.136,Neutral
+SRL-217-A1,SRL-217,Resting heart rate,Cardiovascular,False,-1.1,-2.28,0.08,bpm,0.0658,Neutral
+SRL-217-A2,SRL-217,Anxiety score (GAD-7),Nervous,True,-0.69,-1.36,-0.02,points,0.0414,Positive
+SRL-217-A2,SRL-217,Total sleep time,Nervous,False,4.93,-1.34,11.2,min,0.124,Neutral
+SRL-217-A2,SRL-217,Resting heart rate,Cardiovascular,False,0.41,-0.77,1.59,bpm,0.491,Neutral
+SRL-227-A1,SRL-227,Anxiety score (GAD-7),Nervous,True,-1.69,-2.91,-0.47,points,0.00642,Positive
+SRL-227-A1,SRL-227,Total sleep time,Nervous,False,-4.98,-16.43,6.47,min,0.394,Neutral
+SRL-227-A2,SRL-227,Anxiety score (GAD-7),Nervous,True,-1.08,-2.3,0.14,points,0.0817,Neutral
+SRL-227-A2,SRL-227,Total sleep time,Nervous,False,-7.35,-18.8,4.1,min,0.208,Neutral
+SRL-227-A2,SRL-227,Resting heart rate,Cardiovascular,False,2.27,0.12,4.42,bpm,0.0386,Negative
+SRL-236-A1,SRL-236,Anxiety score (GAD-7),Nervous,True,-0.75,-1.61,0.11,points,0.0896,Neutral
+SRL-236-A1,SRL-236,Total sleep time,Nervous,False,10.65,2.55,18.75,min,0.00996,Positive
+SRL-236-A1,SRL-236,Resting heart rate,Cardiovascular,False,0.08,-1.44,1.6,bpm,0.916,Neutral
+SRL-243-A1,SRL-243,Anxiety score (GAD-7),Nervous,True,-1.62,-3.11,-0.13,points,0.0334,Positive
+SRL-243-A1,SRL-243,Total sleep time,Nervous,False,2.26,-11.76,16.28,min,0.753,Neutral
+SRL-243-A1,SRL-243,Resting heart rate,Cardiovascular,False,1.34,-1.29,3.97,bpm,0.316,Neutral
+SRL-243-A2,SRL-243,Anxiety score (GAD-7),Nervous,True,-1.38,-2.87,0.11,points,0.0686,Neutral
+SRL-252-A1,SRL-252,Anxiety score (GAD-7),Nervous,True,-0.48,-1.81,0.85,points,0.484,Neutral
+SRL-252-A1,SRL-252,Total sleep time,Nervous,False,14.23,1.69,26.77,min,0.0262,Positive
+SRL-252-A1,SRL-252,Resting heart rate,Cardiovascular,False,-1.0,-3.35,1.35,bpm,0.404,Neutral
+SRL-252-A2,SRL-252,Anxiety score (GAD-7),Nervous,True,-2.44,-3.77,-1.11,points,0.000341,Positive
+SRL-252-A2,SRL-252,Total sleep time,Nervous,False,14.22,1.68,26.76,min,0.0263,Positive
+SRL-252-A2,SRL-252,Resting heart rate,Cardiovascular,False,0.35,-2.0,2.7,bpm,0.772,Neutral
+SRL-264-A1,SRL-264,Anxiety score (GAD-7),Nervous,True,-0.82,-1.68,0.04,points,0.0622,Neutral
+SRL-264-A2,SRL-264,Anxiety score (GAD-7),Nervous,True,-1.05,-1.91,-0.19,points,0.0164,Positive
+SRL-264-A2,SRL-264,Total sleep time,Nervous,False,-0.28,-8.38,7.82,min,0.946,Neutral
+SRL-264-A2,SRL-264,Resting heart rate,Cardiovascular,False,-0.78,-2.3,0.74,bpm,0.311,Neutral
+SRL-278-A1,SRL-278,Anxiety score (GAD-7),Nervous,True,-0.86,-1.63,-0.09,points,0.029,Positive
+SRL-278-A1,SRL-278,Total sleep time,Nervous,False,5.58,-1.66,12.82,min,0.131,Neutral
+ATV-203-A1,ATV-203,Systolic blood pressure,Cardiovascular,True,-1.67,-5.2,1.86,mmHg,0.354,Neutral
+ATV-203-A1,ATV-203,Urine albumin-creatinine ratio,Renal,False,-3.02,-11.64,5.6,% change,0.492,Neutral
+ATV-203-A1,ATV-203,eGFR slope,Renal,False,-0.32,-1.18,0.54,mL/min/1.73m²/yr,0.471,Neutral
+ATV-203-A2,ATV-203,Systolic blood pressure,Cardiovascular,True,-5.64,-9.17,-2.11,mmHg,0.00174,Positive
+ATV-203-A2,ATV-203,Diastolic blood pressure,Cardiovascular,False,-2.32,-4.67,0.03,mmHg,0.0535,Neutral
+ATV-203-A2,ATV-203,Urine albumin-creatinine ratio,Renal,False,-15.03,-23.65,-6.41,% change,0.000633,Positive
+ATV-203-A2,ATV-203,eGFR slope,Renal,False,-1.01,-1.87,-0.15,mL/min/1.73m²/yr,0.0222,Negative
+ATV-217-A1,ATV-217,Systolic blood pressure,Cardiovascular,True,-3.99,-5.08,-2.9,mmHg,0.0001,Positive
+ATV-217-A1,ATV-217,Urine albumin-creatinine ratio,Renal,False,-4.75,-7.42,-2.08,% change,0.000496,Positive
+ATV-217-A1,ATV-217,eGFR slope,Renal,False,0.13,-0.14,0.4,mL/min/1.73m²/yr,0.355,Neutral
+ATV-217-A2,ATV-217,Systolic blood pressure,Cardiovascular,True,-5.39,-6.48,-4.3,mmHg,0.0001,Positive
+ATV-217-A2,ATV-217,Urine albumin-creatinine ratio,Renal,False,-5.0,-7.67,-2.33,% change,0.000248,Positive
+ATV-217-A2,ATV-217,eGFR slope,Renal,False,-0.33,-0.6,-0.06,mL/min/1.73m²/yr,0.0167,Negative
+ATV-224-A1,ATV-224,Systolic blood pressure,Cardiovascular,True,-4.47,-5.86,-3.08,mmHg,0.0001,Positive
+ATV-224-A1,ATV-224,Diastolic blood pressure,Cardiovascular,False,-2.43,-3.36,-1.5,mmHg,0.0001,Positive
+ATV-224-A1,ATV-224,Urine albumin-creatinine ratio,Renal,False,-6.11,-9.52,-2.7,% change,0.000439,Positive
+ATV-224-A1,ATV-224,eGFR slope,Renal,False,-0.1,-0.44,0.24,mL/min/1.73m²/yr,0.584,Neutral
+ATV-224-A2,ATV-224,Systolic blood pressure,Cardiovascular,True,-5.24,-6.63,-3.85,mmHg,0.0001,Positive
+ATV-224-A2,ATV-224,Diastolic blood pressure,Cardiovascular,False,-2.77,-3.7,-1.84,mmHg,0.0001,Positive
+ATV-224-A2,ATV-224,Urine albumin-creatinine ratio,Renal,False,-7.82,-11.23,-4.41,% change,0.0001,Positive
+ATV-224-A2,ATV-224,eGFR slope,Renal,False,-0.08,-0.42,0.26,mL/min/1.73m²/yr,0.652,Neutral
+ATV-237-A1,ATV-237,Systolic blood pressure,Cardiovascular,True,-1.52,-3.56,0.52,mmHg,0.143,Neutral
+ATV-237-A1,ATV-237,Diastolic blood pressure,Cardiovascular,False,-2.14,-3.5,-0.78,mmHg,0.002,Positive
+ATV-237-A1,ATV-237,Urine albumin-creatinine ratio,Renal,False,-5.84,-10.82,-0.86,% change,0.0216,Positive
+ATV-237-A1,ATV-237,eGFR slope,Renal,False,-0.36,-0.86,0.14,mL/min/1.73m²/yr,0.158,Neutral
+ATV-248-A1,ATV-248,Systolic blood pressure,Cardiovascular,True,-7.15,-10.37,-3.93,mmHg,0.0001,Positive
+ATV-248-A1,ATV-248,Diastolic blood pressure,Cardiovascular,False,-2.36,-4.51,-0.21,mmHg,0.0314,Positive
+ATV-248-A1,ATV-248,eGFR slope,Renal,False,0.55,-0.24,1.34,mL/min/1.73m²/yr,0.167,Neutral
+ATV-251-A1,ATV-251,Systolic blood pressure,Cardiovascular,True,-4.6,-7.39,-1.81,mmHg,0.00122,Positive
+ATV-251-A1,ATV-251,Urine albumin-creatinine ratio,Renal,False,-3.29,-10.11,3.53,% change,0.345,Neutral
+ATV-262-A1,ATV-262,Systolic blood pressure,Cardiovascular,True,-3.42,-7.36,0.52,mmHg,0.0896,Neutral
+ATV-262-A1,ATV-262,Diastolic blood pressure,Cardiovascular,False,-1.68,-4.31,0.95,mmHg,0.21,Neutral
+ATV-262-A1,ATV-262,Urine albumin-creatinine ratio,Renal,False,-0.37,-10.01,9.27,% change,0.94,Neutral
+ATV-262-A1,ATV-262,eGFR slope,Renal,False,-0.23,-1.19,0.73,mL/min/1.73m²/yr,0.646,Neutral
+ATV-262-A2,ATV-262,Systolic blood pressure,Cardiovascular,True,-4.11,-8.05,-0.17,mmHg,0.0411,Positive
+ATV-262-A2,ATV-262,Diastolic blood pressure,Cardiovascular,False,-4.08,-6.71,-1.45,mmHg,0.00238,Positive
+ATV-262-A2,ATV-262,eGFR slope,Renal,False,-0.38,-1.34,0.58,mL/min/1.73m²/yr,0.444,Neutral
+LPV-209-A1,LPV-209,LDL cholesterol,Cardiovascular,True,-16.96,-23.03,-10.89,mg/dL,0.0001,Positive
+LPV-209-A1,LPV-209,ALT,Hepatic,False,3.14,-0.66,6.94,U/L,0.105,Neutral
+LPV-215-A1,LPV-215,LDL cholesterol,Cardiovascular,True,-5.68,-14.27,2.91,mg/dL,0.195,Neutral
+LPV-215-A1,LPV-215,ALT,Hepatic,False,-1.6,-6.97,3.77,U/L,0.559,Neutral
+LPV-227-A1,LPV-227,LDL cholesterol,Cardiovascular,True,-22.7,-30.14,-15.26,mg/dL,0.0001,Positive
+LPV-227-A2,LPV-227,LDL cholesterol,Cardiovascular,True,-24.99,-32.43,-17.55,mg/dL,0.0001,Positive
+LPV-227-A2,LPV-227,ALT,Hepatic,False,-0.41,-5.06,4.24,U/L,0.863,Neutral
+LPV-239-A1,LPV-239,LDL cholesterol,Cardiovascular,True,-9.92,-18.51,-1.33,mg/dL,0.0236,Positive
+LPV-239-A2,LPV-239,LDL cholesterol,Cardiovascular,True,-20.75,-29.34,-12.16,mg/dL,0.0001,Positive
+LPV-239-A2,LPV-239,ALT,Hepatic,False,0.45,-4.92,5.82,U/L,0.869,Neutral
+LPV-249-A1,LPV-249,LDL cholesterol,Cardiovascular,True,-21.01,-28.45,-13.57,mg/dL,0.0001,Positive
+LPV-249-A1,LPV-249,ALT,Hepatic,False,2.0,-2.65,6.65,U/L,0.4,Neutral
+LPV-249-A2,LPV-249,LDL cholesterol,Cardiovascular,True,-28.32,-35.76,-20.88,mg/dL,0.0001,Positive
+LPV-259-A1,LPV-259,LDL cholesterol,Cardiovascular,True,-18.72,-22.44,-15.0,mg/dL,0.0001,Positive
+LPV-266-A1,LPV-266,LDL cholesterol,Cardiovascular,True,-12.49,-16.21,-8.77,mg/dL,0.0001,Positive
+LPV-266-A2,LPV-266,LDL cholesterol,Cardiovascular,True,-16.09,-19.81,-12.37,mg/dL,0.0001,Positive
+LPV-276-A1,LPV-276,LDL cholesterol,Cardiovascular,True,-23.37,-30.81,-15.93,mg/dL,0.0001,Positive
+LPV-276-A1,LPV-276,ALT,Hepatic,False,4.9,0.25,9.55,U/L,0.0387,Negative
+BRQ-202-A1,BRQ-202,FEV1,Respiratory,False,41.48,19.6,63.36,mL,0.000203,Positive
+BRQ-202-A1,BRQ-202,Annual exacerbation rate,Respiratory,True,-0.14,-0.19,-0.09,events/yr,0.0001,Positive
+BRQ-202-A1,BRQ-202,Asthma control score (ACQ),Respiratory,False,-0.18,-0.25,-0.11,points,0.0001,Positive
+BRQ-202-A2,BRQ-202,Annual exacerbation rate,Respiratory,True,-0.21,-0.26,-0.16,events/yr,0.0001,Positive
+BRQ-202-A2,BRQ-202,Asthma control score (ACQ),Respiratory,False,-0.24,-0.31,-0.17,points,0.0001,Positive
+BRQ-212-A1,BRQ-212,FEV1,Respiratory,False,57.43,29.54,85.32,mL,0.0001,Positive
+BRQ-212-A1,BRQ-212,Annual exacerbation rate,Respiratory,True,-0.26,-0.33,-0.19,events/yr,0.0001,Positive
+BRQ-222-A1,BRQ-222,FEV1,Respiratory,False,38.99,-52.1,130.08,mL,0.402,Neutral
+BRQ-222-A1,BRQ-222,Annual exacerbation rate,Respiratory,True,-0.25,-0.48,-0.02,events/yr,0.0315,Positive
+BRQ-222-A1,BRQ-222,Asthma control score (ACQ),Respiratory,False,0.08,-0.22,0.38,points,0.617,Neutral
+BRQ-222-A2,BRQ-222,FEV1,Respiratory,False,20.19,-70.9,111.28,mL,0.664,Neutral
+BRQ-222-A2,BRQ-222,Annual exacerbation rate,Respiratory,True,-0.07,-0.3,0.16,events/yr,0.556,Neutral
+BRQ-222-A2,BRQ-222,Asthma control score (ACQ),Respiratory,False,-0.12,-0.42,0.18,points,0.453,Neutral
+BRQ-234-A1,BRQ-234,FEV1,Respiratory,False,121.16,65.38,176.94,mL,0.0001,Positive
+BRQ-234-A1,BRQ-234,Annual exacerbation rate,Respiratory,True,-0.2,-0.34,-0.06,events/yr,0.00499,Positive
+BRQ-234-A1,BRQ-234,Asthma control score (ACQ),Respiratory,False,-0.1,-0.29,0.09,points,0.283,Neutral
+CLS-203-A1,CLS-203,IBS symptom severity,Digestive,False,-6.64,-34.08,20.8,points,0.635,Neutral
+CLS-203-A1,CLS-203,Stool frequency normalisation,Digestive,True,-1.99,-7.48,3.5,% responders,0.476,Neutral
+CLS-203-A1,CLS-203,Abdominal pain score (0-10),Digestive,False,-0.41,-1.08,0.26,points,0.223,Neutral
+CLS-213-A1,CLS-213,IBS symptom severity,Digestive,False,-18.51,-30.54,-6.48,points,0.00257,Positive
+CLS-213-A1,CLS-213,Stool frequency normalisation,Digestive,True,3.02,0.61,5.43,% responders,0.0139,Positive
+CLS-213-A1,CLS-213,Abdominal pain score (0-10),Digestive,False,-0.26,-0.55,0.03,points,0.0831,Neutral
+CLS-221-A1,CLS-221,Stool frequency normalisation,Digestive,True,1.71,-0.46,3.88,% responders,0.123,Neutral
+CLS-221-A1,CLS-221,Abdominal pain score (0-10),Digestive,False,0.05,-0.21,0.31,points,0.688,Neutral
+CLS-221-A2,CLS-221,IBS symptom severity,Digestive,False,-5.46,-16.31,5.39,points,0.324,Neutral
+CLS-221-A2,CLS-221,Stool frequency normalisation,Digestive,True,3.09,0.92,5.26,% responders,0.00523,Positive
+CLS-221-A2,CLS-221,Abdominal pain score (0-10),Digestive,False,0.02,-0.24,0.28,points,0.853,Neutral
+CLS-233-A1,CLS-233,Stool frequency normalisation,Digestive,True,5.4,-0.09,10.89,% responders,0.0537,Neutral
+CLS-233-A1,CLS-233,Abdominal pain score (0-10),Digestive,False,-0.21,-0.88,0.46,points,0.531,Neutral
+CLS-233-A2,CLS-233,IBS symptom severity,Digestive,False,-37.45,-64.89,-10.01,points,0.00748,Positive
+CLS-233-A2,CLS-233,Stool frequency normalisation,Digestive,True,6.63,1.14,12.12,% responders,0.0179,Positive
+CLS-233-A2,CLS-233,Abdominal pain score (0-10),Digestive,False,-0.86,-1.53,-0.19,points,0.0116,Positive
+CLS-249-A1,CLS-249,IBS symptom severity,Digestive,False,-29.14,-50.83,-7.45,points,0.00847,Positive
+CLS-249-A1,CLS-249,Stool frequency normalisation,Digestive,True,8.6,4.26,12.94,% responders,0.000102,Positive
+CLS-249-A1,CLS-249,Abdominal pain score (0-10),Digestive,False,-0.04,-0.57,0.49,points,0.888,Neutral
+CLS-249-A2,CLS-249,IBS symptom severity,Digestive,False,-29.21,-50.9,-7.52,points,0.0083,Positive
+CLS-249-A2,CLS-249,Stool frequency normalisation,Digestive,True,3.01,-1.33,7.35,% responders,0.174,Neutral
+CLS-259-A1,CLS-259,IBS symptom severity,Digestive,False,-18.55,-30.58,-6.52,points,0.00252,Positive
+CLS-259-A1,CLS-259,Stool frequency normalisation,Digestive,True,3.95,1.54,6.36,% responders,0.00128,Positive
+CLS-259-A1,CLS-259,Abdominal pain score (0-10),Digestive,False,-0.14,-0.43,0.15,points,0.342,Neutral
+HPT-202-A1,HPT-202,Liver fat fraction (MRI-PDFF),Hepatic,True,-1.38,-1.98,-0.78,% points,0.0001,Positive
+HPT-202-A1,HPT-202,ALT,Hepatic,False,-5.0,-7.58,-2.42,U/L,0.000144,Positive
+HPT-202-A1,HPT-202,LDL cholesterol,Cardiovascular,False,4.85,0.72,8.98,mg/dL,0.0212,Negative
+HPT-202-A2,HPT-202,Liver fat fraction (MRI-PDFF),Hepatic,True,-1.72,-2.32,-1.12,% points,0.0001,Positive
+HPT-202-A2,HPT-202,ALT,Hepatic,False,-4.06,-6.64,-1.48,U/L,0.00205,Positive
+HPT-202-A2,HPT-202,LDL cholesterol,Cardiovascular,False,6.84,2.71,10.97,mg/dL,0.00116,Negative
+HPT-218-A1,HPT-218,Liver fat fraction (MRI-PDFF),Hepatic,True,-1.18,-2.26,-0.1,% points,0.0333,Positive
+HPT-218-A1,HPT-218,ALT,Hepatic,False,-2.82,-7.47,1.83,U/L,0.234,Neutral
+HPT-228-A1,HPT-228,Liver fat fraction (MRI-PDFF),Hepatic,True,0.35,-0.9,1.6,% points,0.585,Neutral
+HPT-228-A1,HPT-228,ALT,Hepatic,False,-6.47,-11.84,-1.1,U/L,0.0182,Positive
+HPT-228-A2,HPT-228,Liver fat fraction (MRI-PDFF),Hepatic,True,-0.97,-2.22,0.28,% points,0.127,Neutral
+HPT-228-A2,HPT-228,LDL cholesterol,Cardiovascular,False,4.59,-4.0,13.18,mg/dL,0.295,Neutral
+HPT-231-A1,HPT-231,Liver fat fraction (MRI-PDFF),Hepatic,True,-0.96,-1.65,-0.27,% points,0.00622,Positive
+HPT-231-A1,HPT-231,ALT,Hepatic,False,-6.58,-9.52,-3.64,U/L,0.0001,Positive
+HPT-231-A1,HPT-231,LDL cholesterol,Cardiovascular,False,4.16,-0.54,8.86,mg/dL,0.0831,Neutral
+HPT-231-A2,HPT-231,Liver fat fraction (MRI-PDFF),Hepatic,True,-1.9,-2.59,-1.21,% points,0.0001,Positive
+HPT-231-A2,HPT-231,ALT,Hepatic,False,-4.17,-7.11,-1.23,U/L,0.00544,Positive
+HPT-231-A2,HPT-231,LDL cholesterol,Cardiovascular,False,3.88,-0.82,8.58,mg/dL,0.106,Neutral
+RNV-203-A1,RNV-203,Urine albumin-creatinine ratio,Renal,True,-12.85,-16.26,-9.44,% change,0.0001,Positive
+RNV-203-A1,RNV-203,eGFR slope,Renal,False,0.52,0.18,0.86,mL/min/1.73m²/yr,0.00281,Positive
+RNV-203-A1,RNV-203,Systolic blood pressure,Cardiovascular,False,-2.16,-3.55,-0.77,mmHg,0.00238,Positive
+RNV-214-A1,RNV-214,Urine albumin-creatinine ratio,Renal,True,-7.68,-11.09,-4.27,% change,0.0001,Positive
+RNV-214-A1,RNV-214,eGFR slope,Renal,False,0.93,0.59,1.27,mL/min/1.73m²/yr,0.0001,Positive
+RNV-214-A1,RNV-214,Systolic blood pressure,Cardiovascular,False,-0.58,-1.97,0.81,mmHg,0.413,Neutral
+RNV-223-A1,RNV-223,Urine albumin-creatinine ratio,Renal,True,-2.83,-12.47,6.81,% change,0.565,Neutral
+RNV-223-A1,RNV-223,Systolic blood pressure,Cardiovascular,False,-2.05,-5.99,1.89,mmHg,0.308,Neutral
+RNV-223-A2,RNV-223,Urine albumin-creatinine ratio,Renal,True,1.56,-8.08,11.2,% change,0.75,Neutral
+RNV-223-A2,RNV-223,Systolic blood pressure,Cardiovascular,False,0.78,-3.16,4.72,mmHg,0.697,Neutral
+RNV-232-A1,RNV-232,Urine albumin-creatinine ratio,Renal,True,-7.59,-11.0,-4.18,% change,0.0001,Positive
+RNV-232-A1,RNV-232,eGFR slope,Renal,False,0.66,0.32,1.0,mL/min/1.73m²/yr,0.000154,Positive
+RNV-232-A1,RNV-232,Systolic blood pressure,Cardiovascular,False,-1.47,-2.86,-0.08,mmHg,0.0395,Positive
+RNV-232-A2,RNV-232,Urine albumin-creatinine ratio,Renal,True,-12.56,-15.97,-9.15,% change,0.0001,Positive
+RNV-232-A2,RNV-232,eGFR slope,Renal,False,0.63,0.29,0.97,mL/min/1.73m²/yr,0.000299,Positive
+RNV-232-A2,RNV-232,Systolic blood pressure,Cardiovascular,False,-1.73,-3.12,-0.34,mmHg,0.0149,Positive
+OSF-209-A1,OSF-209,Knee pain (WOMAC),Musculoskeletal,True,-1.94,-5.88,2.0,points,0.334,Neutral
+OSF-209-A2,OSF-209,Knee pain (WOMAC),Musculoskeletal,True,-0.44,-4.38,3.5,points,0.825,Neutral
+OSF-209-A2,OSF-209,6-minute walk distance,Musculoskeletal,False,0.62,-16.03,17.27,m,0.942,Neutral
+OSF-219-A1,OSF-219,Knee pain (WOMAC),Musculoskeletal,True,-2.3,-3.69,-0.91,points,0.00124,Positive
+OSF-219-A1,OSF-219,Joint stiffness score,Musculoskeletal,False,-0.35,-0.55,-0.15,points,0.000713,Positive
+OSF-219-A1,OSF-219,6-minute walk distance,Musculoskeletal,False,2.82,-3.07,8.71,m,0.348,Neutral
+OSF-222-A1,OSF-222,Knee pain (WOMAC),Musculoskeletal,True,-2.24,-4.0,-0.48,points,0.0129,Positive
+OSF-222-A1,OSF-222,Joint stiffness score,Musculoskeletal,False,-0.33,-0.58,-0.08,points,0.0103,Positive
+OSF-222-A1,OSF-222,6-minute walk distance,Musculoskeletal,False,10.14,2.69,17.59,m,0.00761,Positive
+OSF-222-A2,OSF-222,Knee pain (WOMAC),Musculoskeletal,True,-2.15,-3.91,-0.39,points,0.0169,Positive
+OSF-222-A2,OSF-222,Joint stiffness score,Musculoskeletal,False,-0.13,-0.38,0.12,points,0.318,Neutral
+OSF-222-A2,OSF-222,6-minute walk distance,Musculoskeletal,False,7.09,-0.36,14.54,m,0.0621,Neutral
+OSF-235-A1,OSF-235,Knee pain (WOMAC),Musculoskeletal,True,-4.37,-7.59,-1.15,points,0.00776,Positive
+OSF-235-A1,OSF-235,Joint stiffness score,Musculoskeletal,False,-0.69,-1.16,-0.22,points,0.00363,Positive
+OSF-235-A2,OSF-235,Knee pain (WOMAC),Musculoskeletal,True,-5.48,-8.7,-2.26,points,0.000851,Positive
+OSF-235-A2,OSF-235,6-minute walk distance,Musculoskeletal,False,3.07,-10.53,16.67,m,0.659,Neutral
+OSF-241-A1,OSF-241,Knee pain (WOMAC),Musculoskeletal,True,-4.14,-6.18,-2.1,points,0.0001,Positive
+OSF-241-A1,OSF-241,Joint stiffness score,Musculoskeletal,False,-0.01,-0.3,0.28,points,0.957,Neutral
+OSF-241-A1,OSF-241,6-minute walk distance,Musculoskeletal,False,6.12,-2.48,14.72,m,0.163,Neutral
+OSF-241-A2,OSF-241,Knee pain (WOMAC),Musculoskeletal,True,-3.45,-5.49,-1.41,points,0.000895,Positive
+OSF-241-A2,OSF-241,6-minute walk distance,Musculoskeletal,False,4.31,-4.29,12.91,m,0.326,Neutral
+OSF-256-A1,OSF-256,Knee pain (WOMAC),Musculoskeletal,True,-5.01,-8.95,-1.07,points,0.0127,Positive
+OSF-263-A1,OSF-263,Knee pain (WOMAC),Musculoskeletal,True,-2.63,-4.18,-1.08,points,0.000853,Positive
+OSF-263-A1,OSF-263,Joint stiffness score,Musculoskeletal,False,-0.38,-0.6,-0.16,points,0.000828,Positive
+OSF-263-A1,OSF-263,6-minute walk distance,Musculoskeletal,False,6.63,0.1,13.16,m,0.0468,Positive
+GLD-209-A1,GLD-209,HbA1c,Endocrine,True,-0.32,-0.41,-0.23,% points,0.0001,Positive
+GLD-209-A1,GLD-209,Fasting plasma glucose,Endocrine,False,-10.94,-14.03,-7.85,mg/dL,0.0001,Positive
+GLD-209-A1,GLD-209,Body weight,Endocrine,False,-1.99,-2.54,-1.44,%,0.0001,Positive
+GLD-209-A1,GLD-209,Liver fat fraction (MRI-PDFF),Hepatic,False,-1.3,-1.9,-0.7,% points,0.0001,Positive
+GLD-209-A2,GLD-209,HbA1c,Endocrine,True,-0.52,-0.61,-0.43,% points,0.0001,Positive
+GLD-209-A2,GLD-209,Fasting plasma glucose,Endocrine,False,-13.11,-16.2,-10.02,mg/dL,0.0001,Positive
+GLD-209-A2,GLD-209,Systolic blood pressure,Cardiovascular,False,-2.41,-3.96,-0.86,mmHg,0.00231,Positive
+GLD-212-A1,GLD-212,HbA1c,Endocrine,True,-0.4,-0.52,-0.28,% points,0.0001,Positive
+GLD-212-A1,GLD-212,Body weight,Endocrine,False,-3.02,-3.74,-2.3,%,0.0001,Positive
+GLD-212-A1,GLD-212,Liver fat fraction (MRI-PDFF),Hepatic,False,-1.62,-2.41,-0.83,% points,0.0001,Positive
+GLD-226-A1,GLD-226,HbA1c,Endocrine,True,-0.37,-0.61,-0.13,% points,0.0025,Positive
+GLD-226-A1,GLD-226,Fasting plasma glucose,Endocrine,False,-19.31,-27.2,-11.42,mg/dL,0.0001,Positive
+GLD-226-A1,GLD-226,Systolic blood pressure,Cardiovascular,False,-9.98,-13.92,-6.04,mmHg,0.0001,Positive
+GLD-226-A1,GLD-226,Liver fat fraction (MRI-PDFF),Hepatic,False,-0.85,-2.38,0.68,% points,0.278,Neutral
+GLD-239-A1,GLD-239,HbA1c,Endocrine,True,-0.31,-0.48,-0.14,% points,0.000382,Positive
+GLD-239-A1,GLD-239,Fasting plasma glucose,Endocrine,False,-7.74,-13.32,-2.16,mg/dL,0.0065,Positive
+GLD-239-A1,GLD-239,Systolic blood pressure,Cardiovascular,False,-2.91,-5.7,-0.12,mmHg,0.0408,Positive
+GLD-239-A1,GLD-239,Liver fat fraction (MRI-PDFF),Hepatic,False,-1.55,-2.63,-0.47,% points,0.00506,Positive
+GLD-245-A1,GLD-245,HbA1c,Endocrine,True,-0.4,-0.6,-0.2,% points,0.0001,Positive
+GLD-245-A1,GLD-245,Fasting plasma glucose,Endocrine,False,-8.1,-14.54,-1.66,mg/dL,0.0137,Positive
+GLD-245-A1,GLD-245,Body weight,Endocrine,False,-1.16,-2.31,-0.01,%,0.0476,Positive
+GLD-257-A1,GLD-257,HbA1c,Endocrine,True,-0.31,-0.55,-0.07,% points,0.0111,Positive
+GLD-257-A1,GLD-257,Fasting plasma glucose,Endocrine,False,-13.1,-20.99,-5.21,mg/dL,0.00113,Positive
+GLD-257-A1,GLD-257,Body weight,Endocrine,False,-1.58,-2.98,-0.18,%,0.0276,Positive
+GLD-257-A1,GLD-257,Liver fat fraction (MRI-PDFF),Hepatic,False,-0.26,-1.79,1.27,% points,0.74,Neutral
+GLD-266-A1,GLD-266,HbA1c,Endocrine,True,-0.37,-0.48,-0.26,% points,0.0001,Positive
+GLD-266-A1,GLD-266,Fasting plasma glucose,Endocrine,False,-14.15,-17.68,-10.62,mg/dL,0.0001,Positive
+GLD-266-A1,GLD-266,Body weight,Endocrine,False,-2.54,-3.17,-1.91,%,0.0001,Positive
+GLD-266-A1,GLD-266,Systolic blood pressure,Cardiovascular,False,-2.65,-4.41,-0.89,mmHg,0.00319,Positive
+GLD-266-A1,GLD-266,Liver fat fraction (MRI-PDFF),Hepatic,False,-1.31,-2.0,-0.62,% points,0.000175,Positive

@@ -1,0 +1,13 @@
+arm_id,trial_id,event,drug_pct,comparator_pct
+GLD-251-A1,GLD-251,Nausea,12.4,4.7
+GLD-251-A1,GLD-251,Diarrhoea,8.4,2.3
+GLD-251-A1,GLD-251,Headache,3.1,2.7
+GLD-251-A2,GLD-251,Nausea,10.2,3.8
+GLD-251-A2,GLD-251,Diarrhoea,9.5,2.7
+GLD-251-A2,GLD-251,Headache,2.4,2.4
+GLD-262-A1,GLD-262,Nausea,13.5,3.1
+GLD-262-A1,GLD-262,Diarrhoea,6.5,2.2
+GLD-262-A1,GLD-262,Headache,3.3,2.6
+GLD-273-A1,GLD-273,Nausea,11.0,4.3
+GLD-273-A1,GLD-273,Diarrhoea,9.4,2.9
+GLD-273-A1,GLD-273,Headache,3.1,3.0

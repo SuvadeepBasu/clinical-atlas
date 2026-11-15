@@ -1,0 +1,381 @@
+arm_id,trial_id,event,drug_pct,comparator_pct
+CLV-209-A1,CLV-209,Constipation,5.9,2.4
+CLV-209-A1,CLV-209,Fatigue,7.5,4.8
+CLV-209-A1,CLV-209,Somnolence,2.5,2.9
+CLV-209-A1,CLV-209,Injection-site reaction,2.0,2.7
+CLV-216-A1,CLV-216,Constipation,7.2,3.3
+CLV-216-A1,CLV-216,Fatigue,12.4,5.6
+CLV-216-A1,CLV-216,Diarrhoea,1.6,2.1
+CLV-216-A1,CLV-216,Dizziness,3.5,4.8
+CLV-223-A1,CLV-223,Constipation,9.1,2.9
+CLV-223-A1,CLV-223,Fatigue,7.1,3.3
+CLV-223-A1,CLV-223,Somnolence,5.1,3.8
+CLV-223-A1,CLV-223,Nausea,3.2,4.4
+CLV-231-A1,CLV-231,Constipation,6.8,1.4
+CLV-231-A1,CLV-231,Fatigue,8.6,1.3
+CLV-231-A1,CLV-231,Arthralgia,3.7,4.8
+CLV-231-A1,CLV-231,Nausea,3.5,3.4
+CLV-231-A2,CLV-231,Constipation,10.7,5.5
+CLV-231-A2,CLV-231,Fatigue,4.6,2.2
+CLV-231-A2,CLV-231,Injection-site reaction,1.3,1.1
+CLV-231-A2,CLV-231,Back pain,2.4,3.9
+DML-201-A1,DML-201,Somnolence,5.0,1.7
+DML-201-A1,DML-201,Headache,11.4,3.3
+DML-201-A1,DML-201,Hypotension,2.3,1.4
+DML-201-A1,DML-201,Back pain,4.1,5.3
+DML-201-A2,DML-201,Somnolence,8.4,3.0
+DML-201-A2,DML-201,Headache,13.6,5.3
+DML-201-A2,DML-201,Diarrhoea,0.3,1.8
+DML-201-A2,DML-201,Fatigue,4.3,3.0
+DML-212-A1,DML-212,Somnolence,9.0,4.1
+DML-212-A1,DML-212,Headache,9.6,3.9
+DML-212-A1,DML-212,Arthralgia,4.8,5.7
+DML-212-A1,DML-212,Nausea,3.8,4.6
+DML-212-A2,DML-212,Somnolence,4.9,1.4
+DML-212-A2,DML-212,Headache,10.8,2.3
+DML-212-A2,DML-212,Arthralgia,6.5,5.4
+DML-212-A2,DML-212,Dizziness,1.8,2.8
+DML-221-A1,DML-221,Somnolence,10.6,4.7
+DML-221-A1,DML-221,Headache,5.2,3.1
+DML-221-A1,DML-221,Constipation,2.5,1.4
+DML-221-A1,DML-221,Fatigue,5.6,5.5
+DML-237-A1,DML-237,Somnolence,5.2,2.9
+DML-237-A1,DML-237,Headache,6.8,3.4
+DML-237-A1,DML-237,Fatigue,5.1,5.6
+DML-237-A1,DML-237,Dizziness,6.2,5.1
+SRL-207-A1,SRL-207,Dizziness,11.8,3.2
+SRL-207-A1,SRL-207,Somnolence,12.0,5.6
+SRL-207-A1,SRL-207,Diarrhoea,3.2,4.3
+SRL-207-A1,SRL-207,Upper respiratory infection,5.5,5.5
+SRL-207-A2,SRL-207,Dizziness,10.8,3.0
+SRL-207-A2,SRL-207,Somnolence,6.0,2.5
+SRL-207-A2,SRL-207,Fatigue,5.2,4.9
+SRL-207-A2,SRL-207,Constipation,2.4,2.6
+SRL-217-A1,SRL-217,Dizziness,11.9,5.0
+SRL-217-A1,SRL-217,Somnolence,9.2,3.3
+SRL-217-A1,SRL-217,Diarrhoea,4.5,5.6
+SRL-217-A1,SRL-217,Fatigue,1.6,1.7
+SRL-217-A2,SRL-217,Dizziness,6.3,3.2
+SRL-217-A2,SRL-217,Somnolence,10.5,5.3
+SRL-217-A2,SRL-217,Injection-site reaction,5.8,4.8
+SRL-217-A2,SRL-217,Hypotension,3.2,2.4
+SRL-227-A1,SRL-227,Dizziness,10.8,3.7
+SRL-227-A1,SRL-227,Somnolence,13.3,5.0
+SRL-227-A1,SRL-227,Injection-site reaction,2.7,3.4
+SRL-227-A1,SRL-227,Arthralgia,3.1,3.4
+SRL-227-A2,SRL-227,Dizziness,7.1,4.2
+SRL-227-A2,SRL-227,Somnolence,5.7,3.3
+SRL-227-A2,SRL-227,Headache,2.0,2.9
+SRL-227-A2,SRL-227,Nausea,3.4,2.6
+SRL-236-A1,SRL-236,Dizziness,12.4,3.9
+SRL-236-A1,SRL-236,Somnolence,12.3,3.9
+SRL-236-A1,SRL-236,Constipation,4.2,2.9
+SRL-236-A1,SRL-236,Nausea,2.3,2.0
+SRL-243-A1,SRL-243,Dizziness,13.1,5.3
+SRL-243-A1,SRL-243,Somnolence,9.6,1.4
+SRL-243-A1,SRL-243,Constipation,2.1,2.2
+SRL-243-A1,SRL-243,Upper respiratory infection,3.7,4.1
+SRL-243-A2,SRL-243,Dizziness,12.3,5.4
+SRL-243-A2,SRL-243,Somnolence,4.5,2.4
+SRL-243-A2,SRL-243,Upper respiratory infection,4.5,5.7
+SRL-243-A2,SRL-243,Constipation,4.6,4.6
+SRL-252-A1,SRL-252,Dizziness,12.9,4.0
+SRL-252-A1,SRL-252,Somnolence,9.3,5.2
+SRL-252-A1,SRL-252,Arthralgia,2.2,2.8
+SRL-252-A1,SRL-252,Hypotension,3.4,4.5
+SRL-252-A2,SRL-252,Dizziness,8.4,3.3
+SRL-252-A2,SRL-252,Somnolence,4.3,1.9
+SRL-252-A2,SRL-252,Headache,5.6,5.7
+SRL-252-A2,SRL-252,Constipation,4.8,5.1
+SRL-264-A1,SRL-264,Dizziness,6.1,2.5
+SRL-264-A1,SRL-264,Somnolence,11.4,4.5
+SRL-264-A1,SRL-264,Back pain,3.9,3.3
+SRL-264-A1,SRL-264,Arthralgia,6.5,5.6
+SRL-264-A2,SRL-264,Dizziness,8.8,1.3
+SRL-264-A2,SRL-264,Somnolence,11.8,4.0
+SRL-264-A2,SRL-264,Fatigue,5.4,5.6
+SRL-264-A2,SRL-264,Nausea,2.7,3.3
+SRL-278-A1,SRL-278,Dizziness,11.0,2.4
+SRL-278-A1,SRL-278,Somnolence,11.0,5.1
+SRL-278-A1,SRL-278,Injection-site reaction,2.7,3.3
+SRL-278-A1,SRL-278,Back pain,4.0,2.6
+ATV-203-A1,ATV-203,Hypotension,7.4,3.5
+ATV-203-A1,ATV-203,Dizziness,14.1,5.2
+ATV-203-A1,ATV-203,Somnolence,2.4,2.2
+ATV-203-A1,ATV-203,Constipation,4.2,2.9
+ATV-203-A2,ATV-203,Hypotension,10.4,5.3
+ATV-203-A2,ATV-203,Dizziness,7.7,3.4
+ATV-203-A2,ATV-203,Constipation,4.4,4.8
+ATV-203-A2,ATV-203,Somnolence,6.8,5.7
+ATV-217-A1,ATV-217,Hypotension,7.1,2.9
+ATV-217-A1,ATV-217,Dizziness,11.9,4.6
+ATV-217-A1,ATV-217,Upper respiratory infection,4.0,5.4
+ATV-217-A1,ATV-217,Back pain,1.7,1.3
+ATV-217-A2,ATV-217,Hypotension,9.1,5.0
+ATV-217-A2,ATV-217,Dizziness,5.9,2.9
+ATV-217-A2,ATV-217,Headache,3.9,3.7
+ATV-217-A2,ATV-217,Upper respiratory infection,4.0,5.0
+ATV-224-A1,ATV-224,Hypotension,9.1,1.0
+ATV-224-A1,ATV-224,Dizziness,13.7,4.9
+ATV-224-A1,ATV-224,Injection-site reaction,6.3,5.6
+ATV-224-A1,ATV-224,Constipation,6.4,5.2
+ATV-224-A2,ATV-224,Hypotension,7.6,2.5
+ATV-224-A2,ATV-224,Dizziness,11.0,3.9
+ATV-224-A2,ATV-224,Nausea,0.9,1.5
+ATV-224-A2,ATV-224,Headache,3.7,4.7
+ATV-237-A1,ATV-237,Hypotension,9.3,1.1
+ATV-237-A1,ATV-237,Dizziness,12.2,3.8
+ATV-237-A1,ATV-237,Diarrhoea,0.8,2.1
+ATV-237-A1,ATV-237,Somnolence,6.3,5.1
+ATV-248-A1,ATV-248,Hypotension,10.5,5.9
+ATV-248-A1,ATV-248,Dizziness,12.0,5.5
+ATV-248-A1,ATV-248,Upper respiratory infection,0.6,1.3
+ATV-248-A1,ATV-248,Nausea,7.1,5.8
+ATV-251-A1,ATV-251,Hypotension,8.6,1.1
+ATV-251-A1,ATV-251,Dizziness,6.5,2.2
+ATV-251-A1,ATV-251,Headache,0.6,1.9
+ATV-251-A1,ATV-251,Fatigue,4.8,4.7
+ATV-262-A1,ATV-262,Hypotension,6.7,4.0
+ATV-262-A1,ATV-262,Dizziness,12.5,4.5
+ATV-262-A1,ATV-262,Somnolence,5.1,4.3
+ATV-262-A1,ATV-262,Back pain,3.7,4.6
+ATV-262-A2,ATV-262,Hypotension,4.1,1.5
+ATV-262-A2,ATV-262,Dizziness,10.4,3.2
+ATV-262-A2,ATV-262,Somnolence,1.8,2.9
+ATV-262-A2,ATV-262,Nausea,2.7,1.3
+LPV-209-A1,LPV-209,Back pain,10.1,5.6
+LPV-209-A1,LPV-209,Nausea,4.9,1.9
+LPV-209-A1,LPV-209,Constipation,3.0,4.3
+LPV-209-A1,LPV-209,Arthralgia,6.1,4.7
+LPV-215-A1,LPV-215,Back pain,7.8,3.6
+LPV-215-A1,LPV-215,Nausea,11.0,2.1
+LPV-215-A1,LPV-215,Arthralgia,0.4,1.3
+LPV-215-A1,LPV-215,Somnolence,6.5,5.7
+LPV-227-A1,LPV-227,Back pain,11.3,5.0
+LPV-227-A1,LPV-227,Nausea,13.6,5.2
+LPV-227-A1,LPV-227,Upper respiratory infection,2.4,1.4
+LPV-227-A1,LPV-227,Fatigue,2.5,2.2
+LPV-227-A2,LPV-227,Back pain,7.1,3.7
+LPV-227-A2,LPV-227,Nausea,9.4,4.9
+LPV-227-A2,LPV-227,Hypotension,6.2,5.8
+LPV-227-A2,LPV-227,Dizziness,0.5,1.7
+LPV-239-A1,LPV-239,Back pain,9.6,4.1
+LPV-239-A1,LPV-239,Nausea,9.2,3.3
+LPV-239-A1,LPV-239,Dizziness,6.2,5.0
+LPV-239-A1,LPV-239,Arthralgia,4.1,3.2
+LPV-239-A2,LPV-239,Back pain,6.7,3.5
+LPV-239-A2,LPV-239,Nausea,7.3,2.2
+LPV-239-A2,LPV-239,Upper respiratory infection,3.3,3.2
+LPV-239-A2,LPV-239,Dizziness,1.4,1.8
+LPV-249-A1,LPV-249,Back pain,9.2,4.2
+LPV-249-A1,LPV-249,Nausea,7.3,2.8
+LPV-249-A1,LPV-249,Hypotension,1.0,1.9
+LPV-249-A1,LPV-249,Dizziness,5.7,5.7
+LPV-249-A2,LPV-249,Back pain,12.7,4.9
+LPV-249-A2,LPV-249,Nausea,7.7,5.4
+LPV-249-A2,LPV-249,Dizziness,3.5,2.7
+LPV-249-A2,LPV-249,Hypotension,1.3,1.7
+LPV-259-A1,LPV-259,Back pain,12.3,4.2
+LPV-259-A1,LPV-259,Nausea,6.5,3.8
+LPV-259-A1,LPV-259,Constipation,6.3,5.2
+LPV-259-A1,LPV-259,Headache,3.2,2.4
+LPV-266-A1,LPV-266,Back pain,10.1,4.8
+LPV-266-A1,LPV-266,Nausea,12.4,4.1
+LPV-266-A1,LPV-266,Somnolence,0.3,1.1
+LPV-266-A1,LPV-266,Fatigue,3.0,1.7
+LPV-266-A2,LPV-266,Back pain,9.2,1.3
+LPV-266-A2,LPV-266,Nausea,9.3,3.5
+LPV-266-A2,LPV-266,Arthralgia,4.4,4.2
+LPV-266-A2,LPV-266,Somnolence,4.0,4.6
+LPV-276-A1,LPV-276,Back pain,7.0,1.2
+LPV-276-A1,LPV-276,Nausea,8.3,5.1
+LPV-276-A1,LPV-276,Upper respiratory infection,4.8,4.9
+LPV-276-A1,LPV-276,Fatigue,4.9,4.5
+BRQ-202-A1,BRQ-202,Upper respiratory infection,9.1,4.5
+BRQ-202-A1,BRQ-202,Headache,8.9,5.0
+BRQ-202-A1,BRQ-202,Fatigue,1.2,1.4
+BRQ-202-A1,BRQ-202,Back pain,4.7,3.2
+BRQ-202-A2,BRQ-202,Upper respiratory infection,5.1,2.8
+BRQ-202-A2,BRQ-202,Headache,9.9,5.4
+BRQ-202-A2,BRQ-202,Fatigue,5.3,6.0
+BRQ-202-A2,BRQ-202,Back pain,7.2,5.9
+BRQ-212-A1,BRQ-212,Upper respiratory infection,12.0,3.6
+BRQ-212-A1,BRQ-212,Headache,9.0,1.6
+BRQ-212-A1,BRQ-212,Fatigue,3.6,4.5
+BRQ-212-A1,BRQ-212,Back pain,4.7,4.1
+BRQ-222-A1,BRQ-222,Upper respiratory infection,6.1,1.3
+BRQ-222-A1,BRQ-222,Headache,10.0,4.6
+BRQ-222-A1,BRQ-222,Fatigue,2.8,3.1
+BRQ-222-A1,BRQ-222,Dizziness,2.8,3.9
+BRQ-222-A2,BRQ-222,Upper respiratory infection,7.7,4.8
+BRQ-222-A2,BRQ-222,Headache,11.6,3.5
+BRQ-222-A2,BRQ-222,Arthralgia,5.3,5.2
+BRQ-222-A2,BRQ-222,Fatigue,1.5,2.5
+BRQ-234-A1,BRQ-234,Upper respiratory infection,10.1,3.3
+BRQ-234-A1,BRQ-234,Headache,6.7,1.8
+BRQ-234-A1,BRQ-234,Somnolence,2.8,3.3
+BRQ-234-A1,BRQ-234,Constipation,2.8,1.7
+CLS-203-A1,CLS-203,Diarrhoea,7.0,3.3
+CLS-203-A1,CLS-203,Nausea,6.2,3.9
+CLS-203-A1,CLS-203,Somnolence,2.7,2.4
+CLS-203-A1,CLS-203,Hypotension,5.7,5.2
+CLS-213-A1,CLS-213,Diarrhoea,4.2,1.2
+CLS-213-A1,CLS-213,Nausea,8.0,2.7
+CLS-213-A1,CLS-213,Hypotension,3.6,3.3
+CLS-213-A1,CLS-213,Headache,3.1,3.6
+CLS-221-A1,CLS-221,Diarrhoea,10.8,3.9
+CLS-221-A1,CLS-221,Nausea,7.1,2.0
+CLS-221-A1,CLS-221,Constipation,2.8,3.1
+CLS-221-A1,CLS-221,Headache,2.0,2.0
+CLS-221-A2,CLS-221,Diarrhoea,11.6,2.9
+CLS-221-A2,CLS-221,Nausea,9.0,3.3
+CLS-221-A2,CLS-221,Back pain,4.2,3.7
+CLS-221-A2,CLS-221,Hypotension,5.8,5.3
+CLS-233-A1,CLS-233,Diarrhoea,7.8,2.0
+CLS-233-A1,CLS-233,Nausea,12.6,5.7
+CLS-233-A1,CLS-233,Back pain,2.0,1.7
+CLS-233-A1,CLS-233,Constipation,3.1,3.9
+CLS-233-A2,CLS-233,Diarrhoea,11.5,3.0
+CLS-233-A2,CLS-233,Nausea,10.7,5.4
+CLS-233-A2,CLS-233,Hypotension,3.4,2.0
+CLS-233-A2,CLS-233,Fatigue,3.0,2.6
+CLS-249-A1,CLS-249,Diarrhoea,7.0,1.8
+CLS-249-A1,CLS-249,Nausea,5.6,2.3
+CLS-249-A1,CLS-249,Dizziness,5.6,4.7
+CLS-249-A1,CLS-249,Injection-site reaction,4.6,3.8
+CLS-249-A2,CLS-249,Diarrhoea,12.0,3.4
+CLS-249-A2,CLS-249,Nausea,5.7,1.0
+CLS-249-A2,CLS-249,Fatigue,2.5,3.2
+CLS-249-A2,CLS-249,Arthralgia,2.8,2.6
+CLS-259-A1,CLS-259,Diarrhoea,7.1,1.3
+CLS-259-A1,CLS-259,Nausea,9.5,3.5
+CLS-259-A1,CLS-259,Arthralgia,1.2,1.7
+CLS-259-A1,CLS-259,Dizziness,2.4,3.6
+HPT-202-A1,HPT-202,Constipation,12.2,4.8
+HPT-202-A1,HPT-202,Fatigue,12.4,5.9
+HPT-202-A1,HPT-202,Somnolence,4.6,3.1
+HPT-202-A1,HPT-202,Dizziness,4.0,2.9
+HPT-202-A2,HPT-202,Constipation,8.2,4.6
+HPT-202-A2,HPT-202,Fatigue,3.2,1.0
+HPT-202-A2,HPT-202,Hypotension,3.0,2.5
+HPT-202-A2,HPT-202,Dizziness,3.8,3.7
+HPT-218-A1,HPT-218,Constipation,11.3,3.9
+HPT-218-A1,HPT-218,Fatigue,8.8,5.1
+HPT-218-A1,HPT-218,Diarrhoea,6.9,5.4
+HPT-218-A1,HPT-218,Injection-site reaction,3.3,3.6
+HPT-228-A1,HPT-228,Constipation,12.7,4.2
+HPT-228-A1,HPT-228,Fatigue,7.8,5.2
+HPT-228-A1,HPT-228,Diarrhoea,3.7,4.6
+HPT-228-A1,HPT-228,Injection-site reaction,2.8,2.3
+HPT-228-A2,HPT-228,Constipation,7.9,5.8
+HPT-228-A2,HPT-228,Fatigue,14.4,5.7
+HPT-228-A2,HPT-228,Injection-site reaction,3.1,1.6
+HPT-228-A2,HPT-228,Upper respiratory infection,2.6,3.4
+HPT-231-A1,HPT-231,Constipation,5.6,2.0
+HPT-231-A1,HPT-231,Fatigue,7.5,3.8
+HPT-231-A1,HPT-231,Upper respiratory infection,5.1,3.8
+HPT-231-A1,HPT-231,Dizziness,3.5,2.7
+HPT-231-A2,HPT-231,Constipation,11.5,3.6
+HPT-231-A2,HPT-231,Fatigue,9.1,1.4
+HPT-231-A2,HPT-231,Hypotension,0.3,1.2
+HPT-231-A2,HPT-231,Headache,2.1,1.7
+RNV-203-A1,RNV-203,Hypotension,7.6,5.0
+RNV-203-A1,RNV-203,Fatigue,11.0,5.8
+RNV-203-A1,RNV-203,Upper respiratory infection,2.8,2.2
+RNV-203-A1,RNV-203,Constipation,3.5,2.5
+RNV-214-A1,RNV-214,Hypotension,11.9,5.8
+RNV-214-A1,RNV-214,Fatigue,11.8,4.8
+RNV-214-A1,RNV-214,Upper respiratory infection,1.7,3.0
+RNV-214-A1,RNV-214,Headache,1.0,1.8
+RNV-223-A1,RNV-223,Hypotension,11.0,4.6
+RNV-223-A1,RNV-223,Fatigue,8.9,4.7
+RNV-223-A1,RNV-223,Dizziness,0.3,1.5
+RNV-223-A1,RNV-223,Injection-site reaction,2.1,2.5
+RNV-223-A2,RNV-223,Hypotension,7.7,1.5
+RNV-223-A2,RNV-223,Fatigue,7.3,2.6
+RNV-223-A2,RNV-223,Upper respiratory infection,2.2,2.5
+RNV-223-A2,RNV-223,Back pain,2.6,1.4
+RNV-232-A1,RNV-232,Hypotension,10.4,2.7
+RNV-232-A1,RNV-232,Fatigue,14.1,5.3
+RNV-232-A1,RNV-232,Upper respiratory infection,1.2,1.7
+RNV-232-A1,RNV-232,Somnolence,4.8,5.7
+RNV-232-A2,RNV-232,Hypotension,7.5,1.6
+RNV-232-A2,RNV-232,Fatigue,9.8,4.0
+RNV-232-A2,RNV-232,Injection-site reaction,4.6,4.4
+RNV-232-A2,RNV-232,Upper respiratory infection,5.7,5.8
+OSF-209-A1,OSF-209,Injection-site reaction,10.3,3.8
+OSF-209-A1,OSF-209,Arthralgia,13.0,4.2
+OSF-209-A1,OSF-209,Dizziness,3.6,2.7
+OSF-209-A1,OSF-209,Headache,0.3,1.5
+OSF-209-A2,OSF-209,Injection-site reaction,10.8,1.8
+OSF-209-A2,OSF-209,Arthralgia,7.5,3.4
+OSF-209-A2,OSF-209,Hypotension,4.4,5.6
+OSF-209-A2,OSF-209,Back pain,5.9,5.2
+OSF-219-A1,OSF-219,Injection-site reaction,12.9,4.7
+OSF-219-A1,OSF-219,Arthralgia,8.2,3.2
+OSF-219-A1,OSF-219,Upper respiratory infection,0.3,1.0
+OSF-219-A1,OSF-219,Headache,3.0,2.4
+OSF-222-A1,OSF-222,Injection-site reaction,8.5,3.1
+OSF-222-A1,OSF-222,Arthralgia,12.1,3.7
+OSF-222-A1,OSF-222,Dizziness,4.7,5.7
+OSF-222-A1,OSF-222,Upper respiratory infection,1.2,1.8
+OSF-222-A2,OSF-222,Injection-site reaction,9.3,4.4
+OSF-222-A2,OSF-222,Arthralgia,10.6,5.2
+OSF-222-A2,OSF-222,Somnolence,0.3,1.4
+OSF-222-A2,OSF-222,Upper respiratory infection,4.2,4.8
+OSF-235-A1,OSF-235,Injection-site reaction,11.6,5.3
+OSF-235-A1,OSF-235,Arthralgia,9.4,3.1
+OSF-235-A1,OSF-235,Fatigue,5.8,4.9
+OSF-235-A1,OSF-235,Constipation,5.2,5.0
+OSF-235-A2,OSF-235,Injection-site reaction,9.0,1.7
+OSF-235-A2,OSF-235,Arthralgia,5.5,3.1
+OSF-235-A2,OSF-235,Back pain,2.9,2.4
+OSF-235-A2,OSF-235,Nausea,3.4,4.5
+OSF-241-A1,OSF-241,Injection-site reaction,7.1,2.1
+OSF-241-A1,OSF-241,Arthralgia,6.0,2.1
+OSF-241-A1,OSF-241,Back pain,4.6,5.1
+OSF-241-A1,OSF-241,Upper respiratory infection,4.1,3.9
+OSF-241-A2,OSF-241,Injection-site reaction,5.2,3.2
+OSF-241-A2,OSF-241,Arthralgia,9.2,5.8
+OSF-241-A2,OSF-241,Nausea,3.3,4.4
+OSF-241-A2,OSF-241,Dizziness,3.2,4.2
+OSF-256-A1,OSF-256,Injection-site reaction,10.8,2.6
+OSF-256-A1,OSF-256,Arthralgia,9.1,1.7
+OSF-256-A1,OSF-256,Nausea,3.7,4.8
+OSF-256-A1,OSF-256,Hypotension,4.9,6.0
+OSF-263-A1,OSF-263,Injection-site reaction,8.2,2.0
+OSF-263-A1,OSF-263,Arthralgia,6.6,1.9
+OSF-263-A1,OSF-263,Headache,5.1,4.2
+OSF-263-A1,OSF-263,Diarrhoea,4.2,5.0
+GLD-209-A1,GLD-209,Nausea,8.7,2.6
+GLD-209-A1,GLD-209,Diarrhoea,11.3,4.8
+GLD-209-A1,GLD-209,Fatigue,3.6,4.2
+GLD-209-A1,GLD-209,Hypotension,4.6,3.2
+GLD-209-A2,GLD-209,Nausea,7.9,3.5
+GLD-209-A2,GLD-209,Diarrhoea,11.4,3.6
+GLD-209-A2,GLD-209,Headache,1.9,2.3
+GLD-209-A2,GLD-209,Fatigue,5.8,4.7
+GLD-212-A1,GLD-212,Nausea,13.7,5.7
+GLD-212-A1,GLD-212,Diarrhoea,12.2,3.8
+GLD-212-A1,GLD-212,Fatigue,4.5,4.7
+GLD-212-A1,GLD-212,Arthralgia,2.3,2.6
+GLD-226-A1,GLD-226,Nausea,10.3,1.8
+GLD-226-A1,GLD-226,Diarrhoea,6.9,1.1
+GLD-226-A1,GLD-226,Hypotension,4.8,4.2
+GLD-226-A1,GLD-226,Constipation,0.5,1.0
+GLD-239-A1,GLD-239,Nausea,6.5,2.6
+GLD-239-A1,GLD-239,Diarrhoea,4.8,1.4
+GLD-239-A1,GLD-239,Somnolence,5.2,4.9
+GLD-239-A1,GLD-239,Injection-site reaction,0.8,1.8
+GLD-245-A1,GLD-245,Nausea,8.8,1.3
+GLD-245-A1,GLD-245,Diarrhoea,5.5,2.1
+GLD-245-A1,GLD-245,Dizziness,3.6,3.0
+GLD-245-A1,GLD-245,Headache,4.5,5.7
+GLD-257-A1,GLD-257,Nausea,5.3,1.3
+GLD-257-A1,GLD-257,Diarrhoea,5.1,1.7
+GLD-257-A1,GLD-257,Hypotension,5.5,5.4
+GLD-257-A1,GLD-257,Back pain,5.1,4.2
+GLD-266-A1,GLD-266,Nausea,14.6,5.7
+GLD-266-A1,GLD-266,Diarrhoea,5.6,1.9
+GLD-266-A1,GLD-266,Somnolence,3.3,2.6
+GLD-266-A1,GLD-266,Injection-site reaction,3.1,2.8

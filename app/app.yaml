@@ -1,0 +1,15 @@
+command: ["uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql-warehouse
+  - name: SERVING_ENDPOINT
+    valueFrom: serving-endpoint
+  - name: ATLAS_SCHEMA
+    value: "workspace.atlas"
+  - name: REPORTS_VOLUME
+    value: "/Volumes/workspace/atlas/reports"
+  # Optional: uncomment after adding the matching resources in the app settings
+  # - name: GENIE_SPACE_ID
+  #   valueFrom: genie-space
+  # - name: MLFLOW_EXPERIMENT_ID
+  #   valueFrom: experiment
