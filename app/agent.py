@@ -3,7 +3,7 @@ import os, json, re, contextlib
 import db
 
 SCHEMA = db.SCHEMA
-ENDPOINT = os.environ.get("SERVING_ENDPOINT", "")
+ENDPOINT = os.environ.get("MODEL_NAME") or os.environ.get("SERVING_ENDPOINT", "")   # e.g. system.ai.claude-sonnet-4-5
 THOROUGH_ENDPOINT = os.environ.get("SERVING_ENDPOINT_THOROUGH") or ENDPOINT
 GENIE_SPACE = os.environ.get("GENIE_SPACE_ID", "")
 SYSTEMS = ["Nervous", "Cardiovascular", "Respiratory", "Digestive", "Hepatic", "Renal", "Musculoskeletal", "Endocrine"]
@@ -109,9 +109,29 @@ How to work:
 - If someone asks for personal medical advice, say this database is fictional and they should speak to a clinician, then answer about the data only."""
 
 
+def _text(content):
+    """Some models (e.g. gpt-oss) return content as a list of parts, including reasoning; keep only the answer text."""
+    if content is None:
+        return ""
+    if isinstance(content, str):
+        return content
+    out = []
+    for part in content:
+        p = part if isinstance(part, dict) else getattr(part, "__dict__", {})
+        if p.get("type") in ("text", "output_text") and p.get("text"):
+            out.append(p["text"])
+    return "".join(out)
+
+
 def _client():
+    """Unity Gateway for model services named like system.ai.<model>; legacy serving endpoints otherwise."""
     from databricks.sdk import WorkspaceClient
-    return WorkspaceClient().serving_endpoints.get_open_ai_client()
+    w = WorkspaceClient()
+    if "." in ENDPOINT:
+        from openai import OpenAI
+        token = w.config.authenticate()["Authorization"].split(" ", 1)[1]   # fetched per request: it renews itself
+        return OpenAI(api_key=token, base_url=f"{w.config.host.rstrip('/')}/ai-gateway/mlflow/v1")
+    return w.serving_endpoints.get_open_ai_client()
 
 
 def _run(messages, mode="quick", client=None):
@@ -125,8 +145,8 @@ def _run(messages, mode="quick", client=None):
         r = client.chat.completions.create(model=model, messages=convo, tools=TOOL_SCHEMAS, max_tokens=1800)
         m = r.choices[0].message
         if not m.tool_calls:
-            return {"text": m.content or "", "steps": steps, "ui": ui}
-        convo.append({"role": "assistant", "content": m.content or "",
+            return {"text": _text(m.content), "steps": steps, "ui": ui}
+        convo.append({"role": "assistant", "content": _text(m.content),
                       "tool_calls": [{"id": c.id, "type": "function", "function": {"name": c.function.name, "arguments": c.function.arguments or "{}"}} for c in m.tool_calls]})
         for c in m.tool_calls:
             name = c.function.name

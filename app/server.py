@@ -38,7 +38,7 @@ class ChatIn(BaseModel):
 @app.post("/api/chat")
 def chat(body: ChatIn):
     if not agent.ENDPOINT:
-        raise HTTPException(503, "SERVING_ENDPOINT is not configured")
+        raise HTTPException(503, "MODEL_NAME is not set in app.yaml")
     try:
         return agent.run(body.messages[-12:], body.mode)
     except Exception as e:

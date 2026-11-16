@@ -2,8 +2,9 @@ command: ["uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]
 env:
   - name: DATABRICKS_WAREHOUSE_ID
     valueFrom: sql-warehouse
-  - name: SERVING_ENDPOINT
-    valueFrom: serving-endpoint
+  # The AI model from Part 7, exactly as Unity Gateway names it (system.ai.<model>)
+  - name: MODEL_NAME
+    value: "system.ai.gpt-oss-120b"
   - name: ATLAS_SCHEMA
     value: "workspace.atlas"
   - name: REPORTS_VOLUME
